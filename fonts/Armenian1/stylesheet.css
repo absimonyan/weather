@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Reactive';
+    src: url('Reactive-Regular.woff2') format('woff2'),
+        url('Reactive-Regular.woff') format('woff'),
+        url('Reactive-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
